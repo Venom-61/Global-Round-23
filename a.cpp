@@ -3,7 +3,6 @@ using namespace std;
 
 #define ll long long
 
-
 // A. Maxima
 
 void solve() {
